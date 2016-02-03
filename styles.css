@@ -4,6 +4,7 @@ nav {font-size: 1.5em;}
 .h-card, .webmention-author { font-family: "Gill Sans", Roboto,Verdana, sans-serif; }
 .h-entry, .webmention-summary {max-width: 40em; line-height: 1.2em;}
 h1 { font-size: 3em; margin:0;}
+h1 img {height:1em;}
 .h-cite { background-color: linen;}
 form {border: 1px solid gray; background-color: aliceblue;}
 .picframe img {border: 1px solid lightgray; background-color: aliceblue; object-fit:contain;}
